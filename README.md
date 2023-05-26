@@ -1,4 +1,4 @@
-# machine-learning-R
+# Machine learning with R
 Machine learning with R programming language
 
 1. Read the excel file
